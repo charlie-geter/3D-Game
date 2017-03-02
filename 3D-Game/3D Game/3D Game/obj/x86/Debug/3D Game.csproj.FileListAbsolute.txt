@@ -1,0 +1,13 @@
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\textAnnotation.xnb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.exe
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.pdb
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.exe
+C:\Users\Sir Charles\documents\visual studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.pdb

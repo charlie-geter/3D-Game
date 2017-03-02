@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
+      <Time>2011-07-19T11:10:32.068-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\Models\spaceship_0.xml</Key>
+        <Value>2012-05-03T10:20:25.0799-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Name>Models\ammo</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb</Output>
+      <Time>2011-07-22T11:53:46.764-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\Models\ammo_0.xml</Key>
+        <Value>2012-05-03T10:20:25.9379-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\Crosshair.png</Source>
+      <Name>Textures\Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb</Output>
+      <Time>2011-07-22T12:55:27.345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particle.png</Source>
+      <Name>Textures\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb</Output>
+      <Time>2011-07-27T23:38:33.195-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ParticleColors.png</Source>
+      <Name>Textures\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb</Output>
+      <Time>2011-07-27T23:39:31.525-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Particle.fx</Source>
+      <Name>Effects\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb</Output>
+      <Time>2011-07-29T04:18:33.3484-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textAnnotation.spritefont</Source>
+      <Name>textAnnotation</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\textAnnotation.xnb</Output>
+      <Time>2011-11-25T18:06:30.478-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\Models\spaceship_0.xml</Output>
+      <Time>2011-07-19T11:10:32.068-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\Models\ammo_0.xml</Output>
+      <Time>2011-07-22T11:53:46.764-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{226B3C60-3264-4F50-A2E9-876D90FC8E72}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sir Charles\Documents\Visual Studio 2010\Projects\3D Game\3D Game\3D Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-28T18:27:21.5969999-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

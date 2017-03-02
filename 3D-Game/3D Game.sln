@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Game", "3D Game\3D Game\3D Game.csproj", "{8D92DD9D-ADE1-43EC-A5C7-74F8EAC3BC69}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "3D GameContent", "3D Game\3D GameContent\3D GameContent.contentproj", "{226B3C60-3264-4F50-A2E9-876D90FC8E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D92DD9D-ADE1-43EC-A5C7-74F8EAC3BC69}.Debug|x86.ActiveCfg = Debug|x86
+		{8D92DD9D-ADE1-43EC-A5C7-74F8EAC3BC69}.Debug|x86.Build.0 = Debug|x86
+		{8D92DD9D-ADE1-43EC-A5C7-74F8EAC3BC69}.Release|x86.ActiveCfg = Release|x86
+		{8D92DD9D-ADE1-43EC-A5C7-74F8EAC3BC69}.Release|x86.Build.0 = Release|x86
+		{226B3C60-3264-4F50-A2E9-876D90FC8E72}.Debug|x86.ActiveCfg = Debug|x86
+		{226B3C60-3264-4F50-A2E9-876D90FC8E72}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
